@@ -1,0 +1,26 @@
+
+THIS AGREEMENT is made and entered into as of {{date}} (“Effective Date”), by and between {{disclosing-party}}, (“the Disclosing Party”) and {{receiving-party}}, (“the Recipient”) (collectively, “the Parties”).
+
+Purpose for Disclosure (“Business Purpose”): {{disclosure-purpose}}
+
+The Parties hereby agree as follows:
+
+```
+l. For purposes of this Agreement, the term “Confidential Information” means any financial, business, legal and technical information disclosed to Recipient by or for Discloser or any of its affiliates, suppliers, customers and employees. Information includes research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including any copies, abstracts, summaries, analyses and other derivatives thereof. Disclosure includes any act of transmitting the information whether previously, presently, or subsequently disclosed to recipient. For convenience, the Disclosing Party may, but is not required to, mark written Confidential Information with the legend "Confidential" or an equivalent designation, Confidential Information also includes information that by its nature would be understood by a reasonable person to be confidential.
+l. All Confidential Information disclosed to the Recipient will be used solely for the Business Purpose and for no other purpose whatsoever. The Recipient agrees to keep the Disclosing Party’s Confidential Information confidential and to protect the confidentiality of such Confidential Information with the same degree of care with which it protects the confidentiality of its own confidential information, and in no event with less than a reasonable degree of care. Recipient may disclose Confidential Information only to its employees, agents, consultants and contractors on a need-to-know basis, and only if such employees, agents, consultants and contractors have executed appropriate written agreements with Recipient sufficient to enable Recipient to enforce all the provisions of this Agreement. Recipient shall not make any copies of Disclosing Party’s Confidential Information except as needed for the Business Purpose. At the request of Disclosing Party, Recipient shall return to Disclosing Party all Confidential Information of Disclosing Party (including any copies thereof) or certify the destruction thereof.
+l. All right title and interest in and to the Confidential Information shall remain with Disclosing Party or its licensors. Nothing in this Agreement is intended to grant any rights to Recipient under any patents, copyrights, trademarks, or trade secrets of Disclosing Party. ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS". THE DISCLOSING PARTY MAKES NO WARRANTIES, EXPRESS, IMPLIED OR OTHERWISE, REGARDING NON-INFRINGEMENT OF THIRD PARTY RIGHTS OR ITS ACCURACY, COMPLETENESS OR PERFORMANCE.
+l. The obligations and limitations set forth herein regarding Confidential Information shall not apply to information which is: (a) at any time in the public domain, other than by a breach on the part of the Recipient; or (b) at any time rightfully received from a third party which had the right to and transmits it to the Recipient without any obligation of confidentiality.
+l. In the event that the Recipient shall breach this Agreement, or in the event that a breach appears to be imminent, the Disclosing Party shall be entitled to all legal and equitable remedies afforded it by law, and in addition may recover all reasonable costs and attorneys' fees incurred in seeking such remedies.  If the Confidential Information is sought by any third party, including by way of subpoena or other court process, the Recipient shall inform the Disclosing Party of the request in sufficient time to permit the Disclosing Party to object to and, if necessary, seek court intervention to prevent the disclosure.  
+l. The validity, construction and enforceability of this Agreement shall be governed in all respects by the law of {{governing-law}}. This Agreement may not be amended except in writing signed by a duly authorized representative of the respective Parties. This Agreement shall control in the event of a conflict with any other agreement between the Parties with respect to the subject matter hereof.
+l. This Agreement will terminate as to the further exchange of Confidential Information immediately upon the earlier of receipt by one party of written notice from the other or one year after the date of this Agreement.
+```
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the {{disclosing-party}} - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the {{receiving-party}} - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
