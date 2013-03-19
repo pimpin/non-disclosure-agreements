@@ -2,7 +2,7 @@
 
 This is a simple repository of non-disclosure agreements and related contractual agreements. The files should be self explanatory.
 
-Why did we make this repository? GitLaw. That's why. It is a basis for some work we have gotten ourselves into. 
+Why did we make this repository? GitLaw. That's why.
 
 # Formatting
 
