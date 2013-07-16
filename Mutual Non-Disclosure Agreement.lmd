@@ -1,38 +1,38 @@
 ---
 
 # Mixins
-date: 
-governing-law: 
-party1: 
-party1_address: 
-party1_full: 
-party1_reg: 
-party1_representative: 
-party1_type: 
-party2: 
-party2_address: 
-party2_full: 
-party2_reg: 
-party2_representative: 
-party2_type: 
+date:
+governing-law:
+party1:
+party1_address:
+party1_full:
+party1_reg:
+party1_representative:
+party1_type:
+party2:
+party2_address:
+party2_full:
+party2_reg:
+party2_representative:
+party2_type:
 
 # Optional Clauses
-conf_info_defined: 
-conf_info_includes: 
-trade_secrets_included: 
+conf_info_defined:
+conf_info_includes:
+trade_secrets_included:
 
 # Structured Headers
 level-1: Article 1.
 level-2: Section 1.
 level-3: (a)
 no-indent: l., ll.
-no-reset: 
+no-reset:
 
 ---
 
 # Mutual Nondisclosure Agreement
 
-This Mutual Nondisclosure Agreement (the “Agreement”) is entered into as of {{date}} by and between {{party1_full}} ("{{party1}}"), and {{party2_full}} ("{{party2}}"). 
+This Mutual Nondisclosure Agreement (the “Agreement”) is entered into as of {{date}} by and between {{party1_full}} ("{{party1}}"), and {{party2_full}} ("{{party2}}").
 
 {{party1}} is a {{party1_type}} registered under the laws of {{party1_reg}}, with an address of {{party1_address}}, operating in and therefore subject to the laws of {{party1_reg}}, and represented by {{party1_representative}}.
 
@@ -42,6 +42,7 @@ To explore the possibility of a business relationship between {{party1}} and {{
 
 IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS.
 
+```
 ​l. Confidential Information
 ll. Definition of Confidential Information.* [{{conf_info_defined}} The term “Confidential Information” shall mean information of {{party1}} and/or {{party2}}, to the extent not considered a Trade Secret under applicable law, that (i) relates to the business of {{party1}} and/or {{party2}}, (ii) possesses an element of value to {{party1}} and/or {{party2}}, (iii) is not generally known to {{party1}}’s and/or {{party2}}’s competitors, and (iv) would damage {{party1}} and/or {{party2}} if disclosed.] [{{conf_info_includes}} The term “Confidential Information” means any financial, business, legal and technical information disclosed to Recipient by or for Discloser or any of its affiliates, suppliers, customers and employees. Information includes research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including any copies, abstracts, summaries, analyses and other derivatives thereof.] Disclosure includes any act of transmitting the information whether previously, presently, or subsequently disclosed to recipient. For convenience, the Disclosing Party may, but is not required to, mark written Confidential Information with the legend "Confidential" or an equivalent designation, Confidential Information also includes information that by its nature would be understood by a reasonable person to be confidential.
 [{{trade_secrets_included}}ll. Trade Secrets*. The term "Trade Secrets" shall mean information of {{party1}} and/or {{party2}}, and their licensors, suppliers, clients and customers which is not commonly known or available to the public and which information (i) derives actual or potential economic value from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy. Trade Secrets include, but are not limited to, technical or non-technical data, formulas, patterns, compilations, programs, devices, methods, techniques, drawings, processes, financial data, financial plans, product plans, or a list of actual or potential customers or suppliers. Notwithstanding anything to the contrary contained in this definition, the Trade Secrets of either party shall not include any information provided by the Discloer to the Recevier as part of the disclosed Confidential Information.]
@@ -49,20 +50,20 @@ ll. Exceptions to Confidential Information.* Confidential Information shall not 
 lll. was rightfully known to Recipient without restriction before receipt from Discloser;
 lll. is rightfully disclosed to Recipient without restriction by a third party;
 lll. is or becomes generally known to the public, otherwise known as within the pulic domain, without violation of this Agreement by Recipient; or
-lll. is independently developed by Recipient or its employees without access to or reliance on such information. 
+lll. is independently developed by Recipient or its employees without access to or reliance on such information.
 ll. Authority to Disclose Confidential Information.* Discloser represents and warrants to Recipient that it, and any human persons disclosing Confidential Information, are authorized to disclose any Confidential Information made available to Recipient under this Agreement. Discloser further represents and warrants to Recipient that it is not bound by the terms of any other Non-Disclosure Agreement or any other legally binding Agreement which restricts the disclosure of the Confidential Information that is or will be necessary to disclose to Recipient.
 l. Use of Confidential Information
-ll. Restrictions and Duties.*  Recipient agrees to: 
+ll. Restrictions and Duties.*  Recipient agrees to:
 lll. use the Confidential Information only for its consideration internally of a business relationship or transaction between the parties, and its performance in any resulting arrangement, but not for any other purpose;
 lll. protect the confidentiality of such Confidential Information with the same degree of care with which it protects the confidentiality of its own confidential information, and in no event with less than a reasonable degree of care to prevent any unauthorized access, use, or disclosure of the Confidential Information;
 lll. not disclose the Confidential Information to any third party other than Recipient’s employees and agents who have a need to know, and who have been authorized by Recipient to receive, for the permitted purpose and who have been made aware of the confidential nature of the Confidential Information and all of the restrictions in this Agreement;
 lll. not copy, using any means of creating a duplicate version, the Confidential Information;
 lll. not decompile, disassemble or otherwise reverse engineer any Confidential Information, or use any similar means to discover its underlying composition, structure, source code or trade secrets; and
-lll. not to export or re-export any Confidential Information or product thereof in violation of U.S. or other export control laws or regulations. 
+lll. not to export or re-export any Confidential Information or product thereof in violation of U.S. or other export control laws or regulations.
 ll. Terms of Transaction are Expressly Confidential Information.* Both parties agree that the terms and conditions of any transaction or possible transaction between the parties, the fact that disclosures, evaluations or discussions are taking place, and the status and results thereof will also be held in confidence by both parties and not disclosed to any third party.
 ll. Responsibility for Disclosure.* Each party shall be responsible for any breach of its confidentiality obligations by its respective employees and agents. Both parties agree that upon the event of an unauthorized disclosure, Recipient will indemnify the Discloser against any and all losses, damages, claims, expenses, and attorneys' fees incurred or suffered by the Discloser as a result of a material breach of this Agreement by the Recipient or its employees or agents.
 l. Compelled Disclosures.
-ll. Compliance with Legal Requirements.* This Agreement will not prevent either party from complying with any law, regulation, court order or other legal requirement that purports to compel disclosure of any Confidential Information. 
+ll. Compliance with Legal Requirements.* This Agreement will not prevent either party from complying with any law, regulation, court order or other legal requirement that purports to compel disclosure of any Confidential Information.
 ll. Notification of Compelled Disclosure.* Recipient will promptly notify Discloser upon learning of any such legal requirement, and cooperate with Discloser in the exercise of its right to protect the confidentiality of the Confidential Information before any tribunal or governmental agency.
 l. No Warranties or Licenses
 ll. Express Disclaimer of Any Warranties of Fitness.* ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS". THE DISCLOSING PARTY MAKES NO WARRANTIES, EXPRESS, IMPLIED OR OTHERWISE, REGARDING NON-INFRINGEMENT OF THIRD PARTY RIGHTS OR ITS ACCURACY, COMPLETENESS OR PERFORMANCE. Both parties agree that Discloser will not be liable to Recipient for damages arising from any use of the Confidential Information, from errors, omissions or otherwise.
@@ -87,6 +88,7 @@ ll. Rights.* Unless expressly provided otherwise, each right and remedy in this 
 ll. Severability.* In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement shall otherwise remain in full force and effect and enforceable.
 ll. Governing Law.* This Agreement shall be governed by and construed in accordance with the laws of the {{governing-law}} without regard to the conflicts of laws provisions thereof. Exclusive jurisdiction and venue for any action arising under this Agreement is in the federal and state courts having jurisdiction over {{party1}}'s principal office, and both parties hereby consent to such jurisdiction and venue for this purpose.
 ll. Attorney's Fees and Costs.* In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+```
 
 IN WITNESS HEREOF, the parties have executed this Agreement as a sealed instrument as of the date set forth above.
 
