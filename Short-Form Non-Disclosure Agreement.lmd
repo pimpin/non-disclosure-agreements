@@ -1,21 +1,21 @@
 ---
 
 # Mixins
-date:
-disclosing-party:
-disclosure-purpose:
-governing-law:
-receiving-party:
-
-# Optional Clauses
+date: ""
+disclosing-party: ""
+disclosure-purpose: ""
+governing-law: ""
+receiving-party: ""
 
 # Structured Headers
-level-1:
-no-indent:
-no-reset:
+level-1: "# Article 1."
+
+# Properties
+no-indent: "l."
+no-reset: "l."
+level-style: "l."
 
 ---
-
 
 THIS AGREEMENT is made and entered into as of {{date}} (“Effective Date”), by and between {{disclosing-party}}, (“the Disclosing Party”) and {{receiving-party}}, (“the Recipient”) (collectively, “the Parties”).
 

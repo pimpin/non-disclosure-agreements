@@ -1,32 +1,35 @@
 ---
 
 # Mixins
-date:
-governing-law:
-party1:
-party1_address:
-party1_full:
-party1_reg:
-party1_representative:
-party1_type:
-party2:
-party2_address:
-party2_full:
-party2_reg:
-party2_representative:
-party2_type:
+date: ""
+governing-law: ""
+party1: ""
+party1_address: ""
+party1_full: ""
+party1_reg: ""
+party1_representative: ""
+party1_type: ""
+party2: ""
+party2_address: ""
+party2_full: ""
+party2_reg: ""
+party2_representative: ""
+party2_type: ""
 
 # Optional Clauses
-conf_info_defined:
-conf_info_includes:
-trade_secrets_included:
+conf_info_defined: ""
+conf_info_includes: ""
+trade_secrets_included: ""
 
 # Structured Headers
-level-1: Article 1.
-level-2: Section 1.
-level-3: (a)
-no-indent: l., ll.
-no-reset:
+level-1: "# Article 1."
+level-2: "*Section 1."
+level-3: "(a)"
+
+# Properties
+no-indent: "l., ll."
+no-reset: "l."
+level-style: "l."
 
 ---
 
@@ -42,7 +45,8 @@ Whereas both parties desire to explore the possibility of a business relationshi
 
 IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS.
 
-​l. Confidential Information
+```
+l. Confidential Information
 ll. Definition of Confidential Information.* [{{conf_info_defined}} The term “Confidential Information” shall mean information of {{party1}}, to the extent not considered a Trade Secret under applicable law, that (i) relates to the business of {{party1}}, (ii) possesses an element of value to {{party1}}, (iii) is not generally known to {{party1}}’s competitors, and (iv) would damage {{party1}} if disclosed.] [{{conf_info_includes}} The term “Confidential Information” means any financial, business, legal and technical information disclosed to Recipient by or for Discloser or any of its affiliates, suppliers, customers and employees. Information includes research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including any copies, abstracts, summaries, analyses and other derivatives thereof.] Disclosure includes any act of transmitting the information whether previously, presently, or subsequently disclosed to recipient. For convenience, the Disclosing Party may, but is not required to, mark written Confidential Information with the legend "Confidential" or an equivalent designation, Confidential Information also includes information that by its nature would be understood by a reasonable person to be confidential.
 [{{trade_secrets_included}}ll. Trade Secrets*. The term "Trade Secrets" shall mean information of {{party1}}, and its licensors, suppliers, clients and customers which is not commonly known or available to the public and which information (i) derives actual or potential economic value from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy. Trade Secrets include, but are not limited to, technical or non-technical data, formulas, patterns, compilations, programs, devices, methods, techniques, drawings, processes, financial data, financial plans, product plans, or a list of actual or potential customers or suppliers. Notwithstanding anything to the contrary contained in this definition, the Trade Secrets of either party shall not include any information provided by the Discloer to the Recevier as part of the disclosed Confidential Information.]
 ll. Exceptions to Confidential Information.* Confidential Information shall not include any information that:
@@ -84,6 +88,7 @@ ll. Rights.* Unless expressly provided otherwise, each right and remedy in this 
 ll. Severability.* In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement shall otherwise remain in full force and effect and enforceable.
 ll. Governing Law.* This Agreement shall be governed by and construed in accordance with the laws of the {{governing-law}} without regard to the conflicts of laws provisions thereof. Exclusive jurisdiction and venue for any action arising under this Agreement is in the federal and state courts having jurisdiction over {{party2}}'s principal office, and both parties hereby consent to such jurisdiction and venue for this purpose.
 ll. Attorney's Fees and Costs.* In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+```
 
 IN WITNESS HEREOF, the parties have executed this Agreement as a sealed instrument as of the date set forth above.
 
